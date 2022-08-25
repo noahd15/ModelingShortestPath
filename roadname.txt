@@ -1,0 +1,17 @@
+{
+
+{0, "Melrose Avenue"}, {1, "Melrose Avenue"}, {2, "Volunteer"},
+{3, "Volunteer"}, {4, "Volunteer"}, {5, "Volunteer"},
+{6, "Melrose Avenue"}, {7, "Cumberland Avenue"}, {8, "Cumberland Avenue"},
+{9, "17th Street"}, {10, "17th Street"}, {11, "17th Street"},
+{12, "17th Street"}, {13, "17th Street"}, {14, "17th Street"},
+{15, "Clinch Avenue"}, {16, "Clinch Avenue"}, {17, "Clinch Avenue"},
+{18, "Clinch Avenue"}, {19, "16th Street"}, {20, "16th Street"},
+{21, "James Agee"}, {22, "James Agee"}, {23, "16th Street"},
+{24, "16th Street"}, {25, "White Avenue"}, {26, "James Agee"},
+{27, "James Agee"}, {28, "James Agee"}, {29, "James Agee"},
+{30, "Peyton Manning Pass"}, {31, "Peyton Manning Pass"}, {32, "James Agee"},
+{33, "James Agee"}, {34, "Cumberland Avenue"}, {35, "Cumberland Avenue"},
+{36, "White Avenue"}
+
+};
