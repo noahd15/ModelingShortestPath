@@ -8,6 +8,16 @@ In a sentence, we analyzed traffic conditions around Knoxville, Tennessee and us
 1. The second part is the use of this data to wrtie an algorithm that determines the shortest path from one location to another. 
 1. The third part was to create a user interface that allows user input for the locations, day, and time.
 
+### What's in the Repository
+- screenshots folder contains images that are in this readme file (examples of function output)
+- trafficFiles folder is necessary to run the program. The files that are created by the program will be stored here to be analyzed by the pathfinder program. 
+- trafficconditions holds the files containing the traffic data for the mapped area
+- DatasetDescription is a more detailed description of the data and our process. 
+- the function notebook is the meat of the project. It houses the shortestdistance function that will ask for user input and output the shortest path between two locations. 
+- map is a labeled map of our area of study. It has the labeled nodes that we refer to in the Function notebook and the trafficconditions files.
+- pathfinder.cpp is the program that will determine the shortest path. We use this program in the function notebook. 
+- pathfinder is the binary file compiled from the cpp file. The notebook will use this to run the algorithm.
+
 ## How to Install and Run the Project
 
 ### If you have a python interpreter installed
@@ -46,7 +56,7 @@ Our labeled map of Knoxville:
 
 ![pic](map.png)
 
-Team Members
+## Team Members
 
 Noah Dahle (zrd939@vols.utk.edu) and Kristina Wilson (kwils119@vols.utk.edu)
 
