@@ -20,7 +20,7 @@ In a sentence, we analyzed traffic conditions around Knoxville, Tennessee and us
 
 ## How to Install and Run the Project
 
-If you do not have a mac, you will need to compile the cpp file on your own. To do this, a c++ compiler is necessary. 
+If you do not have a mac, you will need to compile the cpp file on your own. To do this, a c++ compiler is necessary. \
 This is the compile command you must use: **g++ -std=c++11 -o pathfinder pathfinder.cpp**
 
 ### If you have a python interpreter installed
