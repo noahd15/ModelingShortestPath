@@ -44,4 +44,4 @@ In a sentence, we analyzed traffic conditions around Knoxville, Tennessee and us
 
 Our labeled map of Knoxville: 
 
-![pic](labeledmapknoxville.png)
+![pic](map.png)
