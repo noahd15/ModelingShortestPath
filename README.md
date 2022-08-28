@@ -23,7 +23,18 @@ In a sentence, we analyzed traffic conditions around Knoxville, Tennessee and us
 
 ## How to use the Project
 1. Open the function notebook and run shortestdistance. 
-2. You will be asked if you want to use the current date and time or enter your own. Enter yes 
+2. You will be asked if you want to use the current date and time or enter your own. It will accept yes or no. 
+
+![pic](screenshots/error_check.png)
+
+3. If you select yes, then you will be prompted to enter the time and the day you would like to analyze as shown below. 
+
+![pic](screenshots/Canes-Volunteer.png)
+
+4. If you select no, then the current time and day will be rounded to the nearest 15 minute interval, as shown below. 
+
+![pic](screenshots/Panda-Neyland.png)
+
+5. Then you will be prompted to enter the starting and ending location you would like to analyze as shown. You can enter landmarks, such as Hodges (library) or Canes (restaurant), or enter intersections as shown 
 
 ![pic](screenshots/Hodges-Neyland.png)
-
