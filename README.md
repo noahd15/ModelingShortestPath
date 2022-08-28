@@ -22,5 +22,6 @@ In a sentence, we analyzed traffic conditions around Knoxville, Tennessee and us
 2. Follow the instructions above.
 
 ## How to use the Project
-
+1. Open the function notebook and run shortestdistance. 
+2. You will be asked if you want to use the current date and time or enter your own. 
 
