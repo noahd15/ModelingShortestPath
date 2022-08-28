@@ -47,5 +47,7 @@ Our labeled map of Knoxville:
 ![pic](map.png)
 
 Team Members
+
 Noah Dahle (zrd939@vols.utk.edu) and Kristina Wilson (kwils119@vols.utk.edu)
+
 Advisor: Dr. Olivia Prosper (oprosper@utk.edu)
