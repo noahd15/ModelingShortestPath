@@ -35,6 +35,13 @@ In a sentence, we analyzed traffic conditions around Knoxville, Tennessee and us
 
 ![pic](screenshots/Panda-Neyland.png)
 
-5. Then you will be prompted to enter the starting and ending location you would like to analyze as shown. You can enter landmarks, such as Hodges (library) or Canes (restaurant), or enter intersections as shown 
+5. Then you will be prompted to enter the starting and ending location you would like to analyze as shown. You can enter landmarks, such as Hodges (library) or Canes (restaurant), or enter intersections. Both examples are shown below. 
 
 ![pic](screenshots/Hodges-Neyland.png)
+![pic](screenshots/Melrose-Cumberland.png)
+
+6. The fastest path considering traffic conditions at that day and time will be printed, along with the travel time. 
+
+Our labeled map of Knoxville: 
+
+![pic](labeledmapknoxville.png)
