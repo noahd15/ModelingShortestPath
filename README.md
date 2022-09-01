@@ -17,6 +17,7 @@ In short, we analyzed traffic conditions around Knoxville, Tennessee and used th
 - map is a labeled map of our area of study. It has the labeled nodes that we refer to in the Function notebook and the trafficconditions files.
 - pathfinder.cpp is the program that will determine the shortest path. We use this program in the function notebook. 
 - pathfinder is the binary file compiled from the cpp file. The notebook will use this to run the algorithm.
+- calculations is a copy of our calculation of the speed limit, ideal time, and difference, which are used to create the models for the keys. 
 
 ## How to Install and Run the Project
 
