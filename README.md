@@ -12,8 +12,10 @@ In short, we analyzed traffic conditions around Knoxville, Tennessee and used th
 - screenshots folder contains images that are in this readme file (examples of function output)
 - trafficFiles folder is necessary to run the program. The files that are created by the program will be stored here to be analyzed by the pathfinder program. 
 - trafficconditions holds the files containing the traffic data for the mapped area
+- trafficdata holds the csv files containing travel time data for the traffic conditions
 - DatasetDescription is a more detailed description of the data and our process. 
-- the function notebook is the meat of the project. It houses the shortestdistance function that will ask for user input and output the shortest path between two locations. 
+- the function notebook is the meat of the project. It houses the shortestdistance function that will ask for user input and output the shortest path between two locations.
+- Plotting and graphing AIC is a notebook that plots all of the data in trafficdata and calculates the AIC for the models.
 - map is a labeled map of our area of study. It has the labeled nodes that we refer to in the Function notebook and the trafficconditions files.
 - pathfinder.cpp is the program that will determine the shortest path. We use this program in the function notebook. 
 - pathfinder is the binary file compiled from the cpp file. The notebook will use this to run the algorithm.
@@ -27,8 +29,8 @@ This is the compile command you must use: **g++ -std=c++11 -o pathfinder pathfin
 ### If you have a python interpreter installed
 
 1. Download the zip folder by clicking on the green code button and selecting download zip.
-2. Extract the folder on your desktop.
-3. Open the Function notebook and run shortestdistance.
+1. Extract the folder on your desktop.
+1. Open the Function notebook and run shortestdistance.
 
 ### If you do not have a python interpreter installed
 
