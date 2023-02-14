@@ -170,7 +170,7 @@ int main(int argc, char *argv[]) {
 
 
   if (argc != 2) {
-    printf("usage: echo 'start' 'end' | ./pathfinder 'edgefile.txt'\n");
+    printf("usage: echo 'start' 'end' | ./pathgeneral 'edgefile.txt'\n");
     return -1;
   }
 
